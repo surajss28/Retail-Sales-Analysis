@@ -1,4 +1,4 @@
-# 🛒 Retail-Sales-Analysis
+# 🛒 Retail Sales Analysis
 
 ## 📌 Overview
 This project involves end-to-end analysis of a retail sales dataset using **SQL, Python, Excel, and Data Visualization tools**. The goal is to uncover actionable insights, automate reporting, and present the data in a business-friendly format using an interactive Excel dashboard.
