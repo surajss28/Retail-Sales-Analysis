@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project involves end-to-end analysis of a retail sales dataset using **SQL, Python, Excel, and Data Visualization tools**. The goal is to uncover actionable insights, automate reporting, and present the data in a business-friendly format using an interactive Excel dashboard.
 
----
+
 
 ## 📂 Dataset
 The dataset contains transactional sales data across:
@@ -11,7 +11,7 @@ The dataset contains transactional sales data across:
 - Geographic dimensions (State, Region)
 - Fields like `order_date`, `product_name`, `quantity`, `price_per_unit`, `sales_amount`
 
----
+
 
 ## 🔧 Tools & Technologies
 - **SQL**: Data extraction, KPI calculations, segmentation
@@ -19,7 +19,7 @@ The dataset contains transactional sales data across:
 - **Excel**: Dashboard with PivotTables, Slicers, and KPI cards
 
   
----
+
 
 ## 🧪 Key Analysis & Outputs
 
