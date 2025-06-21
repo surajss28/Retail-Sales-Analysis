@@ -45,9 +45,6 @@ The dataset contains transactional sales data across:
   - **Sales by Category & Region (Clustered Bar)**
   - **Top 5 Products by Revenue**
 
-### 📌 Overview
-An interactive Excel dashboard built for analyzing multi-year sales performance across categories, regions, and products. This project transforms raw transactional data into a structured format using SQL and Python, then visualizes key insights using Excel dashboards with slicers, KPIs, and dynamic charts.
-
 
 ### 📷 Dashboard Preview
 ![dashboard](https://github.com/user-attachments/assets/ca606482-30d4-4362-971e-28f5571e9079)
