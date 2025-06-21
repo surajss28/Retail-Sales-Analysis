@@ -49,5 +49,5 @@ The dataset contains transactional sales data across:
 ### 📷 Dashboard Preview
 ![dashboard](https://github.com/user-attachments/assets/ca606482-30d4-4362-971e-28f5571e9079)
 
-### Full Excel File Avialbale on below Link
+### Full Excel File Available on below Link
 📂 [View Dashboard Online](https://docs.google.com/spreadsheets/d/19A1BYyj0haWtKqV0yHfk2qhqCSk3vt8Y/edit?usp=sharing&ouid=113760225451980017731&rtpof=true&sd=true)
