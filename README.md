@@ -33,7 +33,8 @@ The dataset contains transactional sales data across:
 - Category-level comparison
 - Heatmaps, pairplots, and outlier detection
 
-## Retail Sales Performance Dashboard:
+### Retail Sales Performance Dashboard:
+- Overview: An interactive Excel dashboard built for analyzing multi-year sales performance across categories, regions, and products. This   project transforms raw transactional data into a structured format using SQL and Python, then visualizes key insights using Excel    dashboards with slicers, KPIs, and dynamic charts.
 - KPIs: Total Sales, Orders, Avg Order Value
 - Filters: Interactive slicers by Year, Month, Category, and Region
 - - Visuals:
@@ -48,6 +49,8 @@ The dataset contains transactional sales data across:
 An interactive Excel dashboard built for analyzing multi-year sales performance across categories, regions, and products. This project transforms raw transactional data into a structured format using SQL and Python, then visualizes key insights using Excel dashboards with slicers, KPIs, and dynamic charts.
 
 
-## 📷 Dashboard Preview
+### 📷 Dashboard Preview
 ![dashboard](https://github.com/user-attachments/assets/ca606482-30d4-4362-971e-28f5571e9079)
 
+### Full Excel File Avialbale on below Link
+📂 [View Dashboard Online](https://docs.google.com/spreadsheets/d/19A1BYyj0haWtKqV0yHfk2qhqCSk3vt8Y/edit?usp=sharing&ouid=113760225451980017731&rtpof=true&sd=true)
