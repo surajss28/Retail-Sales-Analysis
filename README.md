@@ -33,11 +33,21 @@ The dataset contains transactional sales data across:
 - Category-level comparison
 - Heatmaps, pairplots, and outlier detection
 
-### Excel Dashboard:
-- KPIs: Total Sales, Avg Order Value, Total Orders, Avg Quantity
-- Interactive filters (Month, Region, Category)
-- Charts: Line (sales trend), Pie (category split), Bar (region-wise), Top products
+## Retail Sales Performance Dashboard:
+- KPIs: Total Sales, Orders, Avg Order Value
+- Filters: Interactive slicers by Year, Month, Category, and Region
+- - Visuals:
+  - **Monthly Sales Trend (Line Chart)**
+  - **Top 5 States by Sales and Product Category**
+  - **Sales by Region**
+  - **Product Category Sales (Pie Chart)**
+  - **Sales by Category & Region (Clustered Bar)**
+  - **Top 5 Products by Revenue**
 
----
+### 📌 Overview
+An interactive Excel dashboard built for analyzing multi-year sales performance across categories, regions, and products. This project transforms raw transactional data into a structured format using SQL and Python, then visualizes key insights using Excel dashboards with slicers, KPIs, and dynamic charts.
 
+
+## 📷 Dashboard Preview
+![dashboard](https://github.com/user-attachments/assets/ca606482-30d4-4362-971e-28f5571e9079)
 
